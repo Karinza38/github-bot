@@ -1,4 +1,4 @@
-# Node.js GitHub Bot
+Node.js GitHub Bot
 
 The Node.js Foundation members use this bot to help manage [the repositories of the GitHub organization](https://github.com/nodejs).
 
