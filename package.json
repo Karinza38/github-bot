@@ -17,14 +17,14 @@
     "@octokit/rest": "^21.0.2",
     "aigle": "^1.14.1",
     "basic-auth": "^2.0.1",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.4",
     "bunyan": "^1.8.1",
     "bunyan-middleware": "1.0.2",
     "codeowners-utils": "^1.0.2",
     "debug": "^4.4.0",
     "dotenv": "^16.4.7",
     "events-async": "^1.2.1",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "glob": "11.0.0"
   },
   "devDependencies": {
